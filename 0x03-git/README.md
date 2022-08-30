@@ -1,1 +1,1 @@
-my first commit
+I'm loving this learning journey
